@@ -1,4 +1,4 @@
-# Ruby on rails 2025 | Airbnb-clone | HTML | CSS | JS | Tailwind | Ruby | Rails | PostgreSQL
+# Ruby on rails 2025 | Airbnb-clone | HTML | CSS | JS | Tailwind CSS | Ruby | Rails | PostgreSQL
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
